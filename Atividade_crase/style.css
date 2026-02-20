@@ -1,0 +1,23 @@
+
+
+body{
+    padding: 0;
+    background-color: antiquewhite;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.result{
+   text-align: right;
+   border: 10px  solid brown ;
+   background-color: brown;
+   color: antiquewhite;
+   
+
+}
+
