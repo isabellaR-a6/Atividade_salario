@@ -2,7 +2,8 @@
 
  Sobre o Projeto
 -
-- O TechSoluções é um sistema simples desenvolvido com HTML, CSS e JavaScript que simula um cálculo de reajuste salarial baseado em:
+
+O TechSoluções é um sistema simples desenvolvido com HTML, CSS e JavaScript que simula um cálculo de reajuste salarial baseado em:
 
 - Cargo do funcionário
 
@@ -25,7 +26,7 @@
 -
 Se o funcionário não teve faltas nem atrasos, o aumento é aplicado conforme o cargo:
 
-## Cargo	Aumento
+#### Cargo	Aumento
 - Aprendiz de T.I	Sem aumento
 - Analista de T.I	+10%
 - Gerente de T.I	+15%
