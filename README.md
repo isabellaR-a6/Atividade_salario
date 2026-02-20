@@ -56,7 +56,7 @@ Imagens
  Objetivo Acadêmico
 --
 
-- Este projeto foi desenvolvido com o objetivo de praticar:
+ Este projeto foi desenvolvido com o objetivo de praticar:
 
 - Manipulação do DOM
 
